@@ -1,0 +1,10 @@
+= Sticky header
+
+Sticky header that shrinks when scrolling down
+
+A bit of js and css. Works for ie >= 10.
+
+Based on:
+
+* http://stackoverflow.com/questions/16442016/jquery-sticky-header-that-shrinks-when-scrolling-down
+* http://stackoverflow.com/questions/9311116/can-css3-transition-font-size
